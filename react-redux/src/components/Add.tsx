@@ -1,4 +1,4 @@
-import React, { useRef } from "react";
+import { useRef } from "react";
 import { useAppDispatch } from "../store/store";
 import { addPerson } from "../store/features/personSlice";
 

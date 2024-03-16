@@ -1,4 +1,3 @@
-import React from "react";
 import { useAppSelector } from "../store/store";
 
 const List = () => {
